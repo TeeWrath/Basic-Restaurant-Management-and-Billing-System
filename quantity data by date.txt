@@ -1,0 +1,46 @@
+
+23/ 2/2023
+Order Number:    5
+Butter Chicken           0
+Chicken Biryani          0
+Bhapa Eilish             0
+Fish curry               0
+Chicken Lollipop         0
+Chicken Satta            0
+Egg Curry                0
+Chilli Chicken           0
+Mutton Biryani           5
+Pulaao                   0
+Shahi Paneer             0
+Dal Makhani              0
+Chole Bhature            0
+Malai kofta              0
+Palak Paneer             0
+Jeera Rice               0
+Mix Veg                  0
+Roti                     0
+Mix Raita                0
+Hakka Noodles            0
+
+25/ 2/2023
+Order Number:    5
+Butter Chicken           0
+Chicken Biryani          0
+Bhapa Eilish             0
+Fish curry               0
+Chicken Lollipop         0
+Chicken Satta            0
+Egg Curry                0
+Chilli Chicken           0
+Mutton Biryani           0
+Pulaao                   0
+Shahi Paneer             0
+Dal Makhani              0
+Chole Bhature            0
+Malai kofta              0
+Palak Paneer             0
+Jeera Rice               0
+Mix Veg                  0
+Roti                     0
+Mix Raita                0
+Hakka Noodles            0
